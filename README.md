@@ -1,0 +1,2 @@
+# niken
+hanya sebuah latihan
